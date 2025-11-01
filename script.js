@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { 
             name: 'Api Sang Naga', 
             path: 'audio/apisangnaga.mp3', 
-            lyrics: "Ini adalah lirik untuk Api Sang Naga...\nBaris kedua lirik...\nBaris ketiga..." 
+            lyrics: "[Verse1]\nMembentuk mental, berpikir positif\n" 
         },
         { 
             name: 'Tim DV NP', 
